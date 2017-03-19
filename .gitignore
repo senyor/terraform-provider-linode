@@ -1,2 +1,5 @@
 terraform-provider-linode
 Godeps/_workspace
+
+.idea/
+*.iml
